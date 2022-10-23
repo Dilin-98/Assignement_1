@@ -19,7 +19,11 @@ public class Numbers {
 	}
 	
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		System.out.println("Hello");
+=======
+		System.out.println("Print");
+>>>>>>> New_Patch_Branch
 
 	}
 
